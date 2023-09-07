@@ -1,8 +1,8 @@
-### <👋 Hello, World!/>
+<h1 align="left"> <👋 Hello, World!/></h1>
 
 
-<h1 align="center">I'm Kumar Utkarsh 👋 </h1>
-<h3 align="center">I am <b>Kumar Utkarsh</b>, completed my engineering with CSE in 2023.
+<h1 align="left">I'm Kumar Utkarsh 👋 </h1>
+<h3 align="left">I am <b>Kumar Utkarsh</b>, completed my engineering with CSE in 2023.
 <br>
 💻 I am a <b>Coder</b> and <b>Front-End Web Developer</b> 👨‍💻
 </h3>
@@ -21,10 +21,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kumar-utkarsh-047042199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumar-utkarsh-047042199/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100010598077966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010598077966" height="30" width="40" /></a>
-<a href="https://instagram.com/meet_utkarsh_k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet_utkarsh_k1" height="30" width="40" /></a>
+<a href="https://instagram.com/meet_utkarsh_k1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meet_utkarsh_k1" height="30" width="40" /></a> <br><br>
 <a href="https://www.hackerrank.com/utkarshkumar258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkarshkumar258" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utkarshkumar258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utkarshkumar258" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/utkarshkumar258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarshkumar258" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/utkarshkumar258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="utkarshkumar258" height="30" width="40" /></a><br><br>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
