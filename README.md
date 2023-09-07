@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/utkarshhero/utkarshhero.git)]
+[![MasterHead](https://github.com/utkarshhero/utkarshhero/blob/main/Black%20and%20White%20Minimalist%20Gaming%20Channel%20Banner%20Landscape.gif)]
 
 <h1 align="left"> <👋 Hello, World!/></h1>
 
