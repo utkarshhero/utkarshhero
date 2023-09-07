@@ -1,4 +1,4 @@
-![gif](https://github.com/utkarshhero/utkarshhero.git)
+[![MasterHead](https://github.com/utkarshhero/utkarshhero.git)]
 
 <h1 align="left"> <👋 Hello, World!/></h1>
 
